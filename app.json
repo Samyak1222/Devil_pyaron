@@ -1,10 +1,10 @@
 {
-    "name": "𝐎𝐗𝐘 𝐏𝐘𝐑𝐎𝐍",
+    "name": "™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍",
     "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
     "keywords": [
       "telegram",
       "bot",
-      "oxy"
+      "Altron"
     ],
       "buildpacks": [{
       "url": "heroku/python"
@@ -31,4 +31,4 @@
             "required": false
         }
     }
-  }￼Enter
+  }
