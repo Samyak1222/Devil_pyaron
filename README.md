@@ -1,5 +1,5 @@
 # Pyrone Bot
-
+![Pyrone Bot](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
 Pyrone is a Telegram bot built using the Pyrogram library that generates and sends offensive messages to a chat. It is intended for educational purposes only and should not be used to harass or offend others.
 
 ## Features
