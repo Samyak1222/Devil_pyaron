@@ -1,0 +1,34 @@
+{
+    "name": "𝐎𝐗𝐘 𝐏𝐘𝐑𝐎𝐍",
+    "logo": "https://graph.org/file/b0825ba6490d2aa6a6afd.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "oxy"
+    ],
+      "buildpacks": [{
+      "url": "heroku/python"
+    }],
+    "env": {
+        "SESSION1": {
+            "value": "",
+            "required": true
+        },
+        "SESSION2": {
+            "value": "",
+            "required": false
+        },
+        "SESSION3": {
+            "value": "",
+            "required": false
+        },
+        "SESSION4": {
+            "value": "",
+            "required": false
+        },
+        "SESSION5": {
+            "value": "",
+            "required": false
+        }
+    }
+  }￼Enter
