@@ -35,10 +35,10 @@ Owner: [Your Name](https://t.me/PRADHAN474)
 ## Screenshots
 
 ![Pyrone Bot](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
-[![Support Group](https://img.shields.io/badge/Support-Group-blue)](https://t.me/YourSupportGroup)
-[![Owner](https://img.shields.io/badge/Owner-YourName-red)](https://t.me/YourUsername)
-[![Stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository)
-[![Forks](https://img.shields.io/github/forks/PRADHAN474/OXYPYRON)](https://github.com/YourUsername/YourRepository)
+[![Support Group](https://img.shields.io/badge/Support-Group-blue)](https://t.me/BWANDARLOK)
+[![Owner](https://img.shields.io/badge/Owner-™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍-red)](https://t.me/PRADHAN474)
+[![Stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/PRADHAN474/OXYPYRON)
+[![Forks](https://img.shields.io/github/forks/PRADHAN474/OXYPYRON)](https://github.com/PRADHAN474/OXYPYRON)
 
 ---
 
