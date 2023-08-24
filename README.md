@@ -12,7 +12,7 @@ Pyrone is a Telegram bot built using the Pyrogram library that generates and sen
 
 You can deploy Pyrone on platforms like Heroku using the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXYPYRON)
 
 ## Usage
 
@@ -30,11 +30,11 @@ You can deploy Pyrone on platforms like Heroku using the button below:
 
 If you need help or have questions about the bot, feel free to contact the owner:
 
-Owner: [Your Name](https://t.me/your_username)
+Owner: [Your Name](https://t.me/PRADHAN474)
 
 ## Screenshots
 
-![Pyrone Bot](screenshot.png)
+![Pyrone Bot](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
 
 ---
 
