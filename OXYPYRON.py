@@ -46,7 +46,7 @@ else:
     M5 = None
 
 
-ONE_WORDS = ["aao tumhari bahin chod de", "tohr Maiya ke kali chut me mera lwda", "sala typing sikh le pahile", "madhrchhod", "rndi ka aulad", "teri", "Maiya", "Ki", "Chut", "Faad", "Dunga", "gandu", "kalap", "Baap",
+ONE_WORDS = ["𝗦𝗣𝗘𝗘𝗗 𝗣𝗞𝗗 𝗠𝗔𝗗𝗥𝗖𝗛𝗢𝗗 𝗞𝗘 𝗣𝗜𝗟𝗟𝗘", "Ⓐ︎Ⓤ︎Ⓚ︎Ⓐ︎Ⓣ︎Ⓛ︎Ⓔ︎Ⓢ︎Ⓢ︎", "B͜͡H͜͡A͜͡G͜͡N͜͡A͜͡ M͜͡A͜͡T͜͡ R͜͡N͜͡D͜͡I͜͡ K͜͡E͜͡ B͜͡C͜͡C͜͡H͜͡E͜͡", "🇲 🇦 🇩 🇭 🇦 🇷 🇨 🇭 🇴 🇩", "R̶N̶D̶I̶", "T͎E͎R͎I͎", "𝙼𝙰𝙸𝚈𝙰", "𝙺𝙸", "Chut", "Faad", "Dunga", "gandu", "kalap", "Baap",
            "Hu", "Kidx", "Speed", "Pakad", "mere se ldega", "bap se chud gyaa", "mera land lele", "Teri", "Maa", "Chodne",
            "Ab", "Teri", "Maa", "Chudegi", "Kutte", "Ki", "Tarah", "Beta", "Teri", "Maa", "Ke", "chut",
            "me", "apna", "land", "6inch", "andar", "tak", "dal", "dunga", "betichod", "fat", "gye",
