@@ -21,27 +21,27 @@ SESSION5 = getenv('SESSION5', default=None)
 # ------------- CLIENTS -------------
 
 if SESSION1:
-    M1 = Client(SESSION1, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M1 = Client(SESSION1, api_id=27825930, api_hash="834bde8b9f0e1977defdbbe85149f808")
 else:
     M1 = None
 
 if SESSION2:
-    M2 = Client(SESSION2, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M2 = Client(SESSION2, api_id=27825930, api_hash="834bde8b9f0e1977defdbbe85149f808")
 else:
     M2 = None
 
 if SESSION3:
-    M3 = Client(SESSION3, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M3 = Client(SESSION3, api_id=27825930, api_hash="834bde8b9f0e1977defdbbe85149f808")
 else:
     M3 = None
 
 if SESSION4:
-    M4 = Client(SESSION4, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M4 = Client(SESSION4, api_id=27825930, api_hash="834bde8b9f0e1977defdbbe85149f808")
 else:
     M4 = None
 
 if SESSION5:
-    M5 = Client(SESSION5, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
+    M5 = Client(SESSION5, api_id=27825930, api_hash="834bde8b9f0e1977defdbbe85149f808")
 else:
     M5 = None
 
@@ -131,23 +131,23 @@ if M5:
 
 if M1:
     M1.start()
-    M1.join_chat("BWANDARLOK")
+    M1.join_chat("devillok1")
 
 if M2:
     M2.start()
-    M2.join_chat("BWANDARLOK")
+    M2.join_chat("devillok1")
 
 if M3:
     M3.start()
-    M3.join_chat("BWANDARLOK")
+    M3.join_chat("devillok1")
 
 if M4:
     M4.start()
-    M4.join_chat("BWANDARLOK")
+    M4.join_chat("devillok1")
 
 if M5:
     M5.start()
-    M5.join_chat("BW𝐎𝐗𝐘𝐏𝐘𝐑𝐎𝐍 Started Successfully")
+    M5.join_chat("DVPYRON Started Successfully")
 
 idle()
 
