@@ -1,5 +1,5 @@
 # Pyrone Bot
-![Pyrone Bot](https://graph.org/file/b0825ba6490d2aa6a6afd.jpg)
+![Pyrone Bot](https://telegra.ph/file/8bfded5f818dc3c95670e.jpg)
 Pyrone is a Telegram bot built using the Pyrogram library that generates and sends offensive messages to a chat. It is intended for educational purposes only and should not be used to harass or offend others.
 
 ## Features
@@ -12,7 +12,7 @@ Pyrone is a Telegram bot built using the Pyrogram library that generates and sen
 
 You can deploy Pyrone on platforms like Heroku using the button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/OXYPYRON)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Samyak1222/Devil_pyaron)
 
 ## Usage
 
@@ -30,15 +30,15 @@ You can deploy Pyrone on platforms like Heroku using the button below:
 
 If you need help or have questions about the bot, feel free to contact the owner:
 
-Owner: [Your Name](https://t.me/PRADHAN474)
+Owner: [Your Name](https://t.me/Devill82)
 
 ## Screenshots
 
 
-[![Support Group](https://img.shields.io/badge/Support-Group-blue)](https://t.me/BWANDARLOK)
-[![Owner](https://img.shields.io/badge/Owner-OXYGEN)](https://t.me/PRADHAN474)
-[![Stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/PRADHAN474/OXYPYRON)
-[![Forks](https://img.shields.io/github/forks/PRADHAN474/OXYPYRON)](https://github.com/PRADHAN474/OXYPYRON)
+[![Support Group](https://img.shields.io/badge/Support-Group-blue)](https://t.me/devillok1)
+[![Owner](https://img.shields.io/badge/Owner-DEVIL⚡)](https://t.me/Devill82)
+[![Stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/Samyak1222/Devil_pyaron)
+[![Forks](https://img.shields.io/github/forks/Samyak1222/Devil_pyaron)](https://github.com/Samyak1222/Devil_pyaron)
 
 ---
 
