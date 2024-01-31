@@ -147,9 +147,7 @@ if M4:
 
 if M5:
     M5.start()
-    M5.join_chat("BWANDARLOK")
-
-print("𝐎𝐗𝐘𝐏𝐘𝐑𝐎𝐍 Started Successfully")
+    M5.join_chat("BW𝐎𝐗𝐘𝐏𝐘𝐑𝐎𝐍 Started Successfully")
 
 idle()
 
